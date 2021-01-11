@@ -1,6 +1,6 @@
 # Sudoku-Game : Team Project for JAVA GUI Game
 >__* All screen capture for each function of the SW system and more detail in__ *" team2_project4_sudokureport.pdf "*
->__* SW Simulation in__ *" team2_project4_sudoku_simulation.mp4 "*
+>__& SW Simulation in__ *" team2_project4_sudoku_simulation.mp4 "*
 
 
 >2020-2 Object-Oriented-Programming class in CAU Team2
